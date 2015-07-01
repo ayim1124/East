@@ -1,0 +1,6 @@
+ 上 UpArrow
+ 下 DownArrow
+ 左 LeftArrow
+ 右 RightArrow
+ 慢速移動 左ctrl
+ 
